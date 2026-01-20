@@ -161,6 +161,5 @@ Use the plotting functions provided:
 
 - KPI visualizations help assess momentum, volatility, trend, and valuation
 - Portfolio weights help determine capital allocation across assets
-- Use LLM prompts for AI-assisted executive summary and recommendations
 
 ---
